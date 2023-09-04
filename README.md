@@ -1,7 +1,7 @@
 ### Hi I'm Anas 👋
 
 
-Computer Science Student Intrested in IOS App Development
+Senior Computer Science Student interested in Entrepreneurship 
 
 ![](https://komarev.com/ghpvc/?username=iivcoze&color=blue)
 [![HitCount](http://hits.dwyl.com/Raghav-byte/iivcoz.svg)](http://hits.dwyl.com/iivcoz/iivcoz)
