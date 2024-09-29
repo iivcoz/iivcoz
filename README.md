@@ -1,9 +1,9 @@
 ### Hi I'm Anas 👋
 
 
-I'm a passionate software engineer with a keen interest in entrepreneurship. Currently pursuing my Bachelor's in Computer Science at Umm Al-Qura University, I've honed my skills in Software Engineering, UI Design, and Database Engineering. My goal is to leverage technology to create innovative solutions that not only meet user needs but also have a meaningful impact on the market.
+I'm a passionate Data engineer with a keen interest in entrepreneurship. Currently pursuing my Bachelor's in Computer Science at Umm Al-Qura University, I've honed my Software Engineering, UI Design, and Database Engineering skills. My goal is to leverage technology to create innovative solutions that meet user needs and have a meaningful impact on the market.
 
-In addition to my technical proficiency, I'm deeply enthusiastic about entrepreneurship. I believe in the power of technology to drive innovation and transform industries. I'm excited to explore opportunities that allow me to merge my technical expertise with a entrepreneurial mindset, creating solutions that not only solve problems, but also disrupt and improve existing paradigms.
+In addition to my technical proficiency, I'm deeply enthusiastic about entrepreneurship. I believe in the power of technology to drive innovation and transform industries. I'm excited to explore opportunities that allow me to merge my technical expertise with an entrepreneurial mindset, creating solutions that solve problems and disrupt and improve existing paradigms.
 
 ![](https://komarev.com/ghpvc/?username=iivcoze&color=blue)
 [![HitCount](http://hits.dwyl.com/Raghav-byte/iivcoz.svg)](http://hits.dwyl.com/iivcoz/iivcoz)
